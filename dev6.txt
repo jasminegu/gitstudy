@@ -1,5 +1,0 @@
-line1
-<<<<<<< HEAD
-line2addcommit3
-=======
->>>>>>> parent of a2d4e25... commit 2
